@@ -1,31 +1,29 @@
-.list-container{
-    color: black;
-    margin-left:40px;
+.list-container {
+  color: black;
+  margin-left: 40px;
 }
-select{
-    margin: 11px;
-    border-radius:1px;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-}
-
-.places-container{
-
-    overflow: hidden;
-    height: 77vh;
-    overflow-y: scroll;
+select {
+  margin: 11px;
+  border-radius: 1px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
 }
 
-h4{
-    font-size: 20px;
+.places-container {
+  overflow: hidden;
+  height: 77vh;
+  overflow-y: scroll;
 }
 
-.type-text{
+h4 {
+  font-size: 20px;
+}
 
-    background-color: white;
-    font-size: 15px;
-    margin: 0px;
-    padding: 0px;
-    color: rgb(92, 92, 92);
+.type-text {
+  background-color: white;
+  font-size: 15px;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(92, 92, 92);
 }

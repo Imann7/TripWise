@@ -1,60 +1,58 @@
-.card{
-    width: 520px;
-    
-    padding: 0px;
-    margin-top: 50px;
-    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;    margin-left:5px;
-    border-radius: 12px;
+.card {
+  width: 520px;
 
-    
+  padding: 0px;
+  margin-top: 50px;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px,
+    rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px,
+    rgba(0, 0, 0, 0.07) 0px 16px 16px;
+  margin-left: 5px;
+  border-radius: 12px;
 }
 
-
-
-.card-img{
-    width: 520px;
-    border-radius: 12px 12px 0px 0px;
-  
+.card-img {
+  width: 520px;
+  border-radius: 12px 12px 0px 0px;
 }
 
-.price, .adress, .ranking, .phone, .name, .link{
-    display: flex;
-   
-    padding: 10px;
+.price,
+.adress,
+.ranking,
+.phone,
+.name,
+.link {
+  display: flex;
+
+  padding: 10px;
 }
 
-.cuisine{
-    display: flex;
-    flex-wrap: wrap;
-    font-size: 14px;
-    padding: 10px;
+.cuisine {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 14px;
+  padding: 10px;
 }
 
-a{
-    text-decoration: none;
-    color: rgb(0, 0, 86);
-    text-transform: uppercase;
-    font-weight: 700;
-    margin: 20px;
-    transition: 0.4s ease-in-out;
-    cursor: pointer;
-
-    
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 86);
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 20px;
+  transition: 0.4s ease-in-out;
+  cursor: pointer;
 }
 
-a:hover{
-    color: #979797;
+a:hover {
+  color: #979797;
 }
 
-span{
-
-
-    margin: 8px;
-    padding: 8px;
-    border-radius: 10px;
-    background-color: #979797;
-    color: black;
-    font-weight: 700;
-    font-size: 15px;
-    
+span {
+  margin: 8px;
+  padding: 8px;
+  border-radius: 10px;
+  background-color: #979797;
+  color: black;
+  font-weight: 700;
+  font-size: 15px;
 }

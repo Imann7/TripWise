@@ -46,17 +46,13 @@ const Placesdata = ({ place }) => {
       </div>
 
       <div className="link">
-        
-          <a href={place.website} target="_blank">
-            Website
-          </a>
-       
+        <a href={place.website} target="_blank">
+          Website
+        </a>
 
-        
-          <a href={place.web_url} target="_blank">
-            Trip Advisor
-          </a>
-       
+        <a href={place.web_url} target="_blank">
+          Trip Advisor
+        </a>
       </div>
     </div>
   );

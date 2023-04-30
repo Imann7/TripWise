@@ -1,9 +1,8 @@
-.footer{
-
-    display: flex;
-    justify-content: center;
-    padding: 0px;
-    color: black;
-    font-weight: 700;
-    font-size: 19px;
+.footer {
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  color: black;
+  font-weight: 700;
+  font-size: 19px;
 }
