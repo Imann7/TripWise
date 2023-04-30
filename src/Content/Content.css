@@ -1,0 +1,14 @@
+.content{
+    display: flex;
+    justify-content:space-around;
+    color: black;
+    height: 100vh;
+}
+
+.list{
+    width: 100%;
+}
+.map{
+    margin-right: 15px;
+    margin-bottom: 100px;
+}

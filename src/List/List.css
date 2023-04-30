@@ -1,0 +1,31 @@
+.list-container{
+    color: black;
+    margin-left:40px;
+}
+select{
+    margin: 11px;
+    border-radius:1px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.places-container{
+
+    overflow: hidden;
+    height: 77vh;
+    overflow-y: scroll;
+}
+
+h4{
+    font-size: 20px;
+}
+
+.type-text{
+
+    background-color: white;
+    font-size: 15px;
+    margin: 0px;
+    padding: 0px;
+    color: rgb(92, 92, 92);
+}
