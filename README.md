@@ -1,4 +1,4 @@
-Tripwise
+Tripwise https://trip-wise.vercel.app/
 
 Tripwise is a web application built with React that uses the Travel Advisor API from RapidAPI and the Google Maps and Places APIs from Google Cloud Platform to help users find the best restaurants, hotels, and attractions around them, or in any other location they choose.
 
